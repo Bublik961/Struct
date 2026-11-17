@@ -1,0 +1,6 @@
+Providers (Fiber):
+Provider: Rostelecom;Phone number: 8-800-100-08-00;Speed (Mbps): 100.5;Cost Per Hour: 50; Cost for 1 MB: 0.00110558
+Provider: MTS;Phone number: 8-800-250-08-90;Speed (Mbps): 200;Cost Per Hour: 80; Cost for 1 MB: 0.000888889
+
+Highest speed provider: MTS(200)
+Lowest 1 Mb cost provider: MTS(0.000888889)
